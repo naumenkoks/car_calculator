@@ -17,7 +17,7 @@ if __name__ == '__main__':
                        price=650000, fuel_economy=3,
                        service_cost=3000, insurance_cost=7000)
     )
-CHan    calc.add_car(
+    calc.add_car(
         calculator.Car(name="Audi",
                        price=500000, fuel_economy=3,
                        service_cost=3000, insurance_cost=7000)
